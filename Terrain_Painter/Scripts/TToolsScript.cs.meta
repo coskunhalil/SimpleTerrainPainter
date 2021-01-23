@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b54f8ca5d7b1904d835576d54d84f65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - terrain: {instanceID: 0}
+  - sand: {fileID: 8574412962073106934, guid: 781558f9df06eea4b98f3f8f8b5ce4bd, type: 2}
+  - rock: {fileID: 8574412962073106934, guid: 016c7a05fbc2b5f468db7893f2c0ca10, type: 2}
+  - grass: {fileID: 8574412962073106934, guid: 9f989ff7275d41b4a9fcd125ec471f99, type: 2}
+  - snow: {fileID: 8574412962073106934, guid: 037ca3244fbef40448061864f9f36959, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
